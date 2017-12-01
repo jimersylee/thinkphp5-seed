@@ -11,7 +11,7 @@ class Index extends Controller
      */
     public function index()
     {
-        return 'he llo world';
+        return 'hello world';
     }
 
     /**

@@ -127,3 +127,14 @@ All rights reserved。
 ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
 更多细节参阅 [LICENSE.txt](LICENSE.txt)
+
+
+
+## 单元测试
+切换到项目根目录,执行
+```
+php think unit
+```
+
+将会执行tests目录下的单元测试
+
